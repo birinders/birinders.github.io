@@ -91,10 +91,6 @@ function commander(cmd) {
     case "whoami":
       loopLines(whoami, "color2 margin", 80);
       break;
-    case "video":
-      addLine("Opening YouTube...", "color2", 80);
-      newTab(youtube);
-      break;
     case "sudo":
       addLine("You're not an admin. Contact {OWNER: Birinder Singh} to gain access/", "color2", 80);
       setTimeout(function () {
@@ -125,7 +121,7 @@ function commander(cmd) {
       break;
     case "email":
       addLine(
-        'Opening mailto:<a href="mailto:forrest@fkcodes.com">forrest@fkcodes.com</a>...',
+        'Opening mailto:<a href="mailto:birindersinghji@gmail.com">birindersinghji@gmail.com</a>...',
         "color2",
         80
       );
@@ -141,25 +137,18 @@ function commander(cmd) {
       loopLines(banner, "", 80);
       break;
     // socials
-    case "youtube":
-      addLine("Opening YouTube...", "color2", 80);
-      newTab(youtube);
-      break;
-    case "twitter":
-      addLine("Opening Twitter...", "color2", 0);
-      newTab(twitter);
-      break;
+
     case "linkedin":
       addLine("Opening LinkedIn...", "color2", 0);
       newTab(linkedin);
       break;
-    case "instagram":
-      addLine("Opening Instagram...", "color2", 0);
-      newTab(instagram);
-      break;
     case "github":
       addLine("Opening GitHub...", "color2", 0);
       newTab(github);
+      break;
+    case "leetcode":
+      addLine("Opening LeetCode...", "color2", 0);
+      newTab(leetcode);
       break;
     default:
       addLine(
