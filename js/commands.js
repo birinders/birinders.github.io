@@ -1,4 +1,4 @@
-var password = "fkcodes";
+var password = "bsingh123";
 var linkedin = "https://www.linkedin.com/in/birinders/";
 var github = "https://github.com/birinders/";
 var email = "mailto:birindersinghji@gmail.com";
