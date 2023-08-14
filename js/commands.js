@@ -31,18 +31,21 @@ whois = [
   "Computer Engineering. My journey into the world of software engineering began with a",
   "curiosity - driven exploration, and I quickly found my passion in crafting elegant",
   "solutions using the power of Python.",
+  "My electives are focused on Machine Learning and Artificial Intelligence,",
+  "and I've worked extensively with OpenCV as well.",
   "I've had the privilege of creating a portfolio of remarkable projects that stand as",
   "a testament to my dedication and creativity in the field.",
   "<br>All of my major projects revolve around avoiding libraries for tasks, and rather",
   "approaching the problem heads on. I find myself drawn to the intricate process of creation,",
   "being far more captivated by understanding how something is made than simply knowing how to use it.",
-  "<br>I am currently developing a new Machine Learning library in Python.",
-  "You can find it on my github, or get it right now through pip!",
-  "<br>You can find a showcase of all my projects on my GitHub profile.",
+  "I am currently developing a new Machine Learning library in Python.",
+  "You can find it on my GitHub, or get it right now through pip!",
+  "You can also find a showcase of all my other projects on my GitHub profile.",
   "<br>Besides this, I have also had the privilege of honing my public speaking skills",
   "since my school days, and am used to addressing audiences of over 200 in attendance.",
-  "I'm Trilingual, and have achieved AIR 26 in British Council's International English Olympiad.",
-  "I love playing the piano, and produce digital music as a hobby :)",
+  "I'm Trilingual, and have achieved AIR-26 in British Council's International English Olympiad.",
+  "I love playing the piano, and also produce digital music as a hobby :)",
+  "<br>"
 ]
 
 whoami = [
