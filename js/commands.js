@@ -44,7 +44,7 @@ social = [
   "</a>",
   'linkedin       <a href="' +
   linkedin +
-  '" target="_blank">linkedin/forrestpknight' +
+  '" target="_blank">linkedin/birinders' +
   "</a>",
   'instagram      <a href="' +
   instagram +
@@ -52,7 +52,7 @@ social = [
   "</a>",
   'github         <a href="' +
   github +
-  '" target="_blank">github/forrestknight' +
+  '" target="_blank">github/birinders' +
   "</a>",
   "<br>",
 ];
