@@ -153,35 +153,35 @@ function commander(cmd) {
 
     // Projects
     case "bs-ml-python":
-      addLine("Opening BS-ML Engine, Python...", "extlink", 0)
+      addLine("Opening BS-ML Engine, Python...", "color2", 0)
       newTab(mlengine);
       break;
     case "rt-engine":
-      addLine("Opening Ray Tracing Engine, C++...", "extlink", 0)
+      addLine("Opening Ray Tracing Engine, C++...", "color2", 0)
       newTab(rtengine);
       break;
     case "digit-tracker":
-      addLine("Opening RT Digit Tracker, Python...", "extlink", 0)
+      addLine("Opening RT Digit Tracker, Python...", "color2", 0)
       newTab(mlengine);
       break;
     case "asciivideo":
-      addLine("Opening Ascii-Video, Python...", "extlink", 0)
+      addLine("Opening Ascii-Video, Python...", "color2", 0)
       newTab(asciivid);
       break;
     case "ascii-cpp":
-      addLine("Opening Ascii-Video, C++...", "extlink", 0)
+      addLine("Opening Ascii-Video, C++...", "color2", 0)
       newTab(asciicpp);
       break;
     case "matrix-effect":
-      addLine("Opening Matrix Effect, Python...", "extlink", 0)
+      addLine("Opening Matrix Effect, Python...", "color2", 0)
       newTab(matrixeffect);
       break;
     case "sudoku-vis":
-      addLine("Opening Sudoku Visualizer, Python...", "extlink", 0)
+      addLine("Opening Sudoku Visualizer, Python...", "color2", 0)
       newTab(sudokuvis);
       break;
     case "allprojects":
-      addLine("Opening all GitHub repos...", "extlink", 0)
+      addLine("Opening all GitHub repos...", "color2", 0)
       newTab(allprojects);
       break;
 
