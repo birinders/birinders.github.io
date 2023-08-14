@@ -82,9 +82,9 @@ function enterKey(e) {
 
 function commander(cmd) {
   switch (cmd.toLowerCase()) {
-    case "":
-      loopLines(blank, "color2", 80);
-      break;
+    // case "":
+    //   loopLines(blank, "color2", 80);
+    //   break;
     case "help":
       loopLines(help, "color2 margin", 80);
       break;
@@ -131,6 +131,12 @@ function commander(cmd) {
       newTab(email);
       break;
     case "clear":
+      setTimeout(function () {
+        terminal.innerHTML = '<a id="before"></a>';
+        before = document.getElementById("before");
+      }, 1);
+      break;
+    case "cls":
       setTimeout(function () {
         terminal.innerHTML = '<a id="before"></a>';
         before = document.getElementById("before");
