@@ -156,7 +156,7 @@ function commander(cmd) {
       addLine("Opening BS-ML Engine, Python...", "command", 0)
       newTab(mlengine);
       break;
-    case "rtengine":
+    case "rt-engine":
       addLine("Opening Ray Tracing Engine, C++...", "command", 0)
       newTab(rtengine);
       break;
@@ -168,7 +168,7 @@ function commander(cmd) {
       addLine("Opening Ascii-Video, Python...", "command", 0)
       newTab(asciivid);
       break;
-    case "asciicpp":
+    case "ascii-cpp":
       addLine("Opening Ascii-Video, C++...", "command", 0)
       newTab(asciicpp);
       break;
