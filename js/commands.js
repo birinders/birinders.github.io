@@ -95,7 +95,7 @@ secret = [
 projects = [
   "<br>",
   '<span class="command">bs-ml-python</span>   BS-Machine Learning Engine, Python',
-  '<span class="command">rt-engine</span>       Ray-Tracing Engine, C++',
+  '<span class="command">rt-engine</span>      Ray-Tracing Engine, C++',
   '<span class="command">digit-tracker</span>  Open-CV Live Digit Tracker, Python',
   '<span class="command">asciivideo</span>     Ascii-Video, Python',
   '<span class="command">ascii-cpp</span>      Ascii-Video, C++',

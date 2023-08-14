@@ -125,6 +125,10 @@ p {
   color: #b89076;
 }
 
+.extlink {
+  color: #39ff14;
+}
+
 .command {
   color: #73abad;
   text-shadow: 0 0 5px #73abad;
