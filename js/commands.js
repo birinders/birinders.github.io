@@ -39,6 +39,7 @@ var sudokuvis = "https://github.com/birinders"
 whois = [
   "<br>",
   "Hey, I'm Birinder!👋",
+  "<br>",
   "I'm a final year student at Thapar Univsersity, and am pursuing my bachelor's in",
   "Computer Engineering. My journey into the world of software engineering began with a",
   "curiosity - driven exploration, and I quickly found my passion in crafting elegant",
