@@ -55,8 +55,9 @@ whois = [
   "You can also find a showcase of all my other projects on my GitHub profile.",
   "<br>Besides this, I have also had the privilege of honing my public speaking skills",
   "since my school days, and am used to addressing audiences of over 200 in attendance.",
-  "I'm Trilingual, and have achieved AIR-26 in British Council's International English Olympiad.",
-  "I love playing the piano, and also produce digital music as a hobby :)",
+  "I'm Trilingual, and am honoured to tell that I've also secured AIR-26 in British Council's",
+  "International English Olympiad.",
+  "I've been playing the piano for over 5 years, and also produce digital music as a hobby :)",
   "<br>"
 ]
 
