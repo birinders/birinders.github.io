@@ -82,7 +82,7 @@ social = [
   "<br>",
   'leetcode       <a href="' +
   leetcode +
-  '" target="_blank">linkedin/birinders' +
+  '" target="_blank">leetcode/birindersinghji' +
   "</a>",
   "<br>"
 ];
