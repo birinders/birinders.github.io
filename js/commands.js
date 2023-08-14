@@ -36,7 +36,8 @@ whois = [
   "<br>All of my major projects revolve around avoiding libraries for tasks, and rather",
   "approaching the problem heads on. I find myself drawn to the intricate process of creation,",
   "being far more captivated by understanding how something is made than simply knowing how to use it.",
-  "<br><ul>I am currently developing a new Machine Learning library in Python.</ul>",
+  "<br>I am currently developing a new Machine Learning library in Python.",
+  "You can find it on my github, or get it right now through pip!",
   "<br>You can find a showcase of all my projects on my GitHub profile.",
   "<br>Besides this, I have also had the privilege of honing my public speaking skills",
   "since my school days, and am used to addressing audiences of over 200 in attendance.",
@@ -113,7 +114,7 @@ banner = [
 
 banner = [
   '<span class="index">Birinder Singh (BS) Not A Corporation. All bytes reserved.</span>',
-
+  "                 ",
   "██████╗░██╗██████╗░██╗███╗░░██╗██████╗░███████╗██████╗░  ░██████╗██╗███╗░░██╗░██████╗░██╗░░██╗",
   "██╔══██╗██║██╔══██╗██║████╗░██║██╔══██╗██╔════╝██╔══██╗  ██╔════╝██║████╗░██║██╔════╝░██║░░██║",
   "██████╦╝██║██████╔╝██║██╔██╗██║██║░░██║█████╗░░██████╔╝  ╚█████╗░██║██╔██╗██║██║░░██╗░███████║",
@@ -121,4 +122,6 @@ banner = [
   "██████╦╝██║██║░░██║██║██║░╚███║██████╔╝███████╗██║░░██║  ██████╔╝██║██║░╚███║╚██████╔╝██║░░██║",
   "╚═════╝░╚═╝╚═╝░░╚═╝╚═╝╚═╝░░╚══╝╚═════╝░╚══════╝╚═╝░░╚═╝  ╚═════╝░╚═╝╚═╝░░╚══╝░╚═════╝░╚═╝░░╚═╝",
   "                                                                                        © 2023 ",
+  '<span class="color2">Welcome to my interactive web terminal.</span>',
+  '<span class="color2">For a list of available commands, type</span> <span class="command">\'help\'</span><span class="color2">.</span>',
 ]
