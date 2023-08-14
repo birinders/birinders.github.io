@@ -36,6 +36,8 @@ var sudokuvis = "https://github.com/birinders"
 //   "<br>",
 // ];
 
+blank = [""]
+
 whois = [
   "<br>",
   "Hey, I'm Birinder!👋",
