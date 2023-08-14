@@ -58,7 +58,7 @@ function enterKey(e) {
     if (e.keyCode == 13) {
       commands.push(command.innerHTML);
       git = commands.length;
-      addLine("visitor@fkcodes.com:~$ " + command.innerHTML, "no-animation", 0);
+      addLine("guest@birinders.io:~$ " + command.innerHTML, "no-animation", 0);
       commander(command.innerHTML.toLowerCase());
       command.innerHTML = "";
       textarea.value = "";
@@ -96,7 +96,7 @@ function commander(cmd) {
       newTab(youtube);
       break;
     case "sudo":
-      addLine("Oh no, you're not admin...", "color2", 80);
+      addLine("You're not an admin. Contact {OWNER: Birinder Singh} to gain access/", "color2", 80);
       setTimeout(function () {
         window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ");
       }, 1000);
