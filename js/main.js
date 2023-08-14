@@ -17,13 +17,13 @@ setTimeout(function () {
 window.addEventListener("keyup", enterKey);
 
 console.log(
-  "%cWhy are you here?",
+  "%cTip- Secret- Try ctrl + w to invert the scheme!",
   "color: #04ff00;"
 );
-console.log(
-  "%cPassword: '" + password + "' - I wonder what it does?🤔",
-  "color: grey"
-);
+// console.log(
+//   "%cPassword: '" + password + "' - I wonder what it does?🤔",
+//   "color: grey"
+// );
 
 //init
 textarea.value = "";
