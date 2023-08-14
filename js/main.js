@@ -136,8 +136,8 @@ function commander(cmd) {
     case "banner":
       loopLines(banner, "", 80);
       break;
-    // socials
 
+    // socials
     case "linkedin":
       addLine("Opening LinkedIn...", "color2", 0);
       newTab(linkedin);
@@ -150,6 +150,42 @@ function commander(cmd) {
       addLine("Opening LeetCode...", "color2", 0);
       newTab(leetcode);
       break;
+
+    // Projects
+    case "bs-ml-python":
+      addLine("Opening BS-ML Engine, Python...", "command", 0)
+      newTab(mlengine);
+      break;
+    case "rtengine":
+      addLine("Opening Ray Tracing Engine, C++...", "command", 0)
+      newTab(rtengine);
+      break;
+    case "digit-tracker":
+      addLine("Opening RT Digit Tracker, Python...", "command", 0)
+      newTab(mlengine);
+      break;
+    case "asciivideo":
+      addLine("Opening Ascii-Video, Python...", "command", 0)
+      newTab(asciivid);
+      break;
+    case "asciicpp":
+      addLine("Opening Ascii-Video, C++...", "command", 0)
+      newTab(asciicpp);
+      break;
+    case "matrix-effect":
+      addLine("Opening Matrix Effect, Python...", "command", 0)
+      newTab(matrixeffect);
+      break;
+    case "sudoku-vis":
+      addLine("Opening Sudoku Visualizer, Python...", "command", 0)
+      newTab(sudokuvis);
+      break;
+    case "allprojects":
+      addLine("Opening all GitHub repos...", "command", 0)
+      newTab(allprojects);
+      break;
+
+
     default:
       addLine(
         '<span class="inherit">Command not found. For a list of commands, type <span class="command">\'help\'</span>.</span>',

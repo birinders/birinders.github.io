@@ -4,6 +4,18 @@ var github = "https://github.com/birinders/";
 var email = "mailto:birindersinghji@gmail.com";
 var leetcode = "https://leetcode.com/birindersinghji/";
 
+// Projects
+var mlengine = "https://github.com/birinders/BS-ML_Engine--Python"
+var rtengine = "https://github.com/birinders/RT-Engine"
+var asciivid = "https://github.com/birinders/AsciiVideo"
+var asciicpp = "https://github.com/birinders/AsciiVideoCPP"
+var matrixeffect = "https://github.com/birinders/MatrixEffect"
+var allprojects = "https://github.com/birinders?tab=repositories"
+
+// TODO-
+var digit_tracker = "https://github.com/birinders"
+var sudokuvis = "https://github.com/birinders"
+
 // whois = [
 //   "<br>",
 //   "Hey, I'm Forrest!👋",
@@ -70,6 +82,7 @@ social = [
   leetcode +
   '" target="_blank">linkedin/birinders' +
   "</a>",
+  "<br>"
 ];
 
 secret = [
@@ -80,7 +93,14 @@ secret = [
 
 projects = [
   "<br>",
-  "Still curating... most projects are offline, on GitHub, or confidential.",
+  '<span class="command">bs-ml-python</span>   BS-Machine Learning Engine, Python',
+  '<span class="command">rtengine</span>       Ray-Tracing Engine, C++',
+  '<span class="command">digit-tracker</span>  Open-CV Live Digit Tracker, Python',
+  '<span class="command">asciivideo</span>     Ascii-Video, Python',
+  '<span class="command">ascii-cpp</span>      Ascii-Video, C++',
+  '<span class="command">matrix-effect</span>  Matrix-Effect, Python',
+  '<span class="command">sudoku-vis</span>     Sudoku Solver and Visualizer',
+  '<span class="command">allprojects</span>    View the rest of my projects',
   "<br>",
 ];
 
