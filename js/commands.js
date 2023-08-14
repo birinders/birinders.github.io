@@ -112,11 +112,12 @@ help = [
   '<span class="command">whoami</span>         Who are you?',
   '<span class="command">social</span>         Display social networks',
   '<span class="command">projects</span>       View coding projects',
-  '<span class="command">help</span>           You obviously already know what this does',
-  '<span class="command">history</span>        View command history',
   '<span class="command">email</span>          Get in touch!',
+  '<span class="command">history</span>        View command history',
   '<span class="command">clear</span>          Clear terminal',
   '<span class="command">banner</span>         Display the header',
+  "<br>",
+  '<span class="command">help</span>           You obviously already know what this does',
   "<br>",
 ];
 
