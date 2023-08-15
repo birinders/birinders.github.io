@@ -45,7 +45,7 @@ b {
   text-indent: -5px;
   display: inline-block;
   text-decoration: blink;
-  animation: blinker 0.5s linear infinite;
+  animation: blinker 0.8s linear infinite;
 }
 
 @keyframes blinker {
@@ -131,6 +131,11 @@ p {
 
 .command {
   color: #73abad;
+  text-shadow: 0 0 5px #73abad;
+}
+
+.name {
+  color: #73ad75;
   text-shadow: 0 0 5px #73abad;
 }
 
