@@ -110,7 +110,7 @@ whois = [
   "I've had the privilege of creating a portfolio of remarkable projects that stand as",
   "a testament to my dedication and creativity in the field.",
   "<br>All of my major projects revolve around avoiding libraries for tasks, and rather",
-  "approaching the problem heads on. I find myself drawn to the intricate process of creation,",
+  "approaching the problem hands on. I find myself drawn to the intricate process of creation,",
   "being far more captivated by understanding how something is made than simply knowing how to use it.",
   "I am currently developing a new Machine Learning library in Python.",
   "You can find it on my GitHub, or get it right now through pip!",
