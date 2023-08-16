@@ -175,7 +175,7 @@ function commander(cmd) {
       break;
     case "digit-tracker":
       addLine("Opening RT Digit Tracker, Python...", "color2", 0)
-      newTab(mlengine);
+      newTab(github);
       break;
     case "asciivideo":
       addLine("Opening Ascii-Video, Python...", "color2", 0)

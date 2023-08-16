@@ -9,12 +9,12 @@ var mlengine = "https://github.com/birinders/BS-ML_Engine--Python"
 var rtengine = "https://github.com/birinders/RT-Engine"
 var asciivid = "https://github.com/birinders/AsciiVideo"
 var asciicpp = "https://github.com/birinders/AsciiVideoCPP"
+var sudokuvis = "https://github.com/birinders/SudokuVisualizer"
 var matrixeffect = "https://github.com/birinders/MatrixEffect"
 var allprojects = "https://github.com/birinders?tab=repositories"
 
 // TODO-
 var digit_tracker = "https://github.com/birinders"
-var sudokuvis = "https://github.com/birinders"
 
 // whois = [
 //   "<br>",
