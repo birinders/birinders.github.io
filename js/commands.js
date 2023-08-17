@@ -112,7 +112,7 @@ whois = [
   "<br>All of my major projects revolve around avoiding libraries for tasks, and rather",
   "approaching the problem hands on. I find myself drawn to the intricate process of creation,",
   "being far more captivated by understanding how something is made than simply knowing how to use it.",
-  "That said, I am currently working on developing a new Machine Learning library in Python.",
+  "With that said, I am currently working on developing a new Machine Learning library in Python.",
   "You can either find it on my GitHub, or get an alpha release right now through pip!",
   "You can also find a showcase of all my other projects on my GitHub profile.",
   "<br>Besides this, I have also had the privilege of honing my public speaking skills",
