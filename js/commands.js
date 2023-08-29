@@ -11,7 +11,7 @@ var asciivid = "https://github.com/birinders/AsciiVideo"
 var asciicpp = "https://github.com/birinders/AsciiVideoCPP"
 var sudokuvis = "https://github.com/birinders/SudokuVisualizer"
 var matrixeffect = "https://github.com/birinders/MatrixEffect"
-var allprojects = "https://github.com/birinders?tab=repositories"
+var allprojects = "https://github.com/birinders/all-projects"
 
 // TODO-
 var digit_tracker = "https://github.com/birinders"
@@ -163,7 +163,8 @@ projects = [
   '<span class="command">ascii-cpp</span>      Ascii-Video, C++',
   '<span class="command">matrix-effect</span>  Matrix-Effect, Python',
   '<span class="command">sudoku-vis</span>     Sudoku Solver and Visualizer',
-  '<span class="command">allprojects</span>    View the rest of my projects',
+  ' ',
+  '<span class="command">allprojects</span>    View all of my projects',
   "<br>",
 ];
 
