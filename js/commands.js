@@ -163,7 +163,7 @@ projects = [
   '<span class="command">ascii-cpp</span>      Ascii-Video, C++',
   '<span class="command">matrix-effect</span>  Matrix-Effect, Python',
   '<span class="command">sudoku-vis</span>     Sudoku Solver and Visualizer',
-  ' ',
+  "<br>",
   '<span class="command">allprojects</span>    View all of my projects',
   "<br>",
 ];
